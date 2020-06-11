@@ -1,0 +1,15 @@
+{
+  "name": "algorithmsChiaraDiaz",
+  "version": "1.0.0",
+  "description": "algorithms and data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chiara Diaz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {}
+}
